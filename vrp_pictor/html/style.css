@@ -1,0 +1,521 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;400;500&display=swap');
+
+
+*,*:focus,*:hover{
+    outline:none;
+	border: none;
+}
+
+.chestienoughicit{
+	border: none;
+}
+
+body {
+	font-family: 'DM Mono', monospace;
+	background: none;
+}
+h2{
+	color:white
+}
+
+.licitatie{
+	position: absolute;
+    width: 50%;
+    height: 60%;
+    border-radius: 50px;
+    background-color: #020202e5;
+   
+ 
+    left: 25%;
+    top: 20.5%;	
+}
+#cedrqenuantaastadealbastru{
+	background: none;
+	border: none;
+	color: rgb(5, 127, 184);
+	margin-top: 10%;
+	margin-left: 24%;
+	font-size: 19px;
+	font-family: cursive;	
+	position: absolute;
+}
+#culoricombinatebosule{
+	color: white;
+	font-size: 23px;
+	font-family: cursive;
+	position: absolute
+	;
+	margin-top: 8%;
+	margin-left: 15%;
+}
+
+#imaginelicitatie{
+	position: absolute;
+	border: 3px solid black;
+	margin-top: -50%;
+	margin-left: 65%;
+}
+#secautavanzatori{
+	color: white;
+	font-size: 23px;
+	font-family: cursive;
+	position: absolute
+	;
+	position: absolute;
+	margin-top: 5%;
+	margin-left: 3%;	
+}
+#imaginesoldout{
+	position: absolute;
+}
+#semnacmcontractvanzare{
+	color: white;
+	font-size: 23px;
+	font-family: cursive;
+	position: absolute
+	;
+	position: absolute;
+	margin-top: 15%;
+	margin-left: 3%;	
+}
+#claimmoneybruhh:hover{
+	color: lightgreen;
+	border: 1px solid lightgreen;
+}
+#claimmoneybruhh{
+	color: rgb(5, 97, 9);
+	font-size: 45px;
+	font-family: cursive;
+	position: absolute
+	;
+	background: none;
+	border: 1px solid green;
+	border-radius: 10px;
+	position: absolute;
+	margin-top: 38%;
+	margin-left: 35%;
+}
+#tahnktouforpycash{
+	color: white;
+	font-size: 32px;
+	font-family: cursive;
+	position: absolute
+	;
+	position: absolute;
+	margin-top: 23%;
+	margin-left: 25%;
+}
+#senegociazapretul{
+	color: white;
+	font-size: 23px;
+	font-family: cursive;
+	position: absolute
+	;
+	position: absolute;
+	margin-top: 10%;
+	margin-left: 3%;
+}
+#paragraflic{
+	color: white;
+	font-size: 32px;
+	font-family: cursive;
+	position: absolute
+	;
+	margin-top: 0%;
+	margin-left: 44%;
+}
+#infolic{
+	color: white;
+	font-size: 23px;
+	font-family: cursive;
+	position: absolute
+	;
+	position: absolute;
+	margin-top: 20%;
+	margin-left: 3%;	
+}
+#licitestebro:hover{
+	color: rgb(7, 165, 54);
+}
+.lds-ellipsis {
+	display: inline-block;
+	position: absolute;
+	width: 300px;
+	height: 300px;
+	margin-top: 28%;
+	margin-left: 46%;
+  }
+  .lds-ellipsis div {
+	position: absolute;
+	top: 33px;
+	width: 19px;
+	height: 19px;
+	border-radius: 50%;
+	background: rgb(199, 199, 199);
+	animation-timing-function: cubic-bezier(0, 1, 1, 0);
+  }
+  .lds-ellipsis div:nth-child(1) {
+	left: 8px;
+	animation: lds-ellipsis1 0.6s infinite;
+  }
+  .lds-ellipsis div:nth-child(2) {
+	left: 8px;
+	animation: lds-ellipsis2 0.6s infinite;
+  }
+  .lds-ellipsis div:nth-child(3) {
+	left: 32px;
+	animation: lds-ellipsis2 0.6s infinite;
+  }
+  .lds-ellipsis div:nth-child(4) {
+	left: 56px;
+	animation: lds-ellipsis3 0.6s infinite;
+  }
+  @keyframes lds-ellipsis1 {
+	0% {
+	  transform: scale(0);
+	}
+	100% {
+	  transform: scale(1);
+	}
+  }
+  @keyframes lds-ellipsis3 {
+	0% {
+	  transform: scale(1);
+	}
+	100% {
+	  transform: scale(0);
+	}
+  }
+  @keyframes lds-ellipsis2 {
+	0% {
+	  transform: translate(0, 0);
+	}
+	100% {
+	  transform: translate(24px, 0);
+	}
+  }
+
+  
+
+#licitestebro{
+	position: absolute;
+	border: none;
+	background: none;
+	color: rgb(3, 77, 25);
+	font-size: 23px;
+	font-family: cursive;
+	position: absolute
+	;
+	margin-top: 15%;
+	margin-left: 80%;
+}
+#salbos{
+	color: white;
+	font-size: 23px;
+	font-family: cursive;
+	position: absolute
+	;
+	margin-top: 0%;
+	margin-left: 34%;
+}
+
+#ceplmcoaierosu{
+	background: none;
+	border: none;
+	color: red;
+	margin-top: 10%;
+	margin-left: 10%;
+	font-size: 19px;
+	font-family: cursive;
+	position: absolute;
+}
+#verdercoaiecedrq{
+	background: none;
+	border: none;
+	color: rgba(0, 179, 0, 0.604);
+	margin-top: 10%;
+	margin-left: 17%;
+	font-size: 19px;
+	font-family: cursive;
+	position: absolute;
+}
+
+#Angajare{
+	position: absolute;
+	color: #2f3037;
+	font-weight: 600;
+	font-size: 24px;	
+	margin-top:10%;
+	left:10%;
+	margin-left:20%;
+}
+
+#header{
+    background: linear-gradient(white,rgb(53, 143, 204));
+    background: -webkit-linear-gradient(white,rgb(53, 143, 204));
+    background: -o-linear-gradient(white,rgb(53, 143, 204));
+    background: -moz-linear-gradient(white,rgb(53, 143, 204));    
+    color: #fff;
+    height: 60px;
+    line-height: 60px;
+    font-size: 2rem;
+    width: 50%;
+    margin:0.5rem auto;
+    letter-spacing: 4px;
+}
+
+
+.inputContainer{
+    width: 30%;
+    margin: 0 auto;
+}
+.input{
+    height: 1.5rem;
+    font-size: 1.3rem;  
+}
+#circle{
+    height: 3px;
+    width: 3px;
+    margin: 0 auto;
+    border-radius: 50%;
+    background: black;
+    top: 50%;
+    left: 50%;
+}
+
+
+
+.container34{
+    width: 800px;
+    height: 400px;
+    
+    margin: 10px auto;
+	background: grey;
+}
+#paint{
+    background-color: #fff;
+    cursor: crosshair;
+	border: 2px solid black;
+	border-radius: 10px;
+}
+
+
+.inputContainer2{
+    margin: 3px auto;
+}
+.input2{
+    display: inline-block;
+    margin: 10px;
+    width: 120px;
+    position: relative;
+}
+#infomraed{
+	margin-top: 5%;
+	margin-left: 0%;
+	position: absolute;
+	color: white;
+	font-family: cursive;	
+	font-size: 21px;
+	padding: 8px;	
+}
+#culoreas{
+	margin-top: 35%;
+	margin-left: 0%;
+	position: absolute;
+	color: white;
+	font-family: cursive;	
+	font-size: 32px;
+	padding: 8px;
+}
+#aiopizza{
+	box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px 0px inset;
+	margin-top: 10%;
+	margin-left: 89%;
+	position: absolute;
+	color: white;
+	font-family: cursive;	
+	font-size: 32px;
+	padding: 8px;
+}
+#culoreas:hover{
+	cursor: pointer;
+	color: purple;
+	transition: opacity 0.2s;
+	transform: skew(20deg);
+}
+#finishpictureframe{
+	position: absolute;
+	font-family: cursive;
+    font-size: 1.3rem;
+    padding: 8px;
+    color: rgb(8, 228, 133);
+	background: none;
+	border: none;
+    cursor: pointer;
+	margin-top: 51%;
+	margin-left: 47%;
+	box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+    border-radius: 30px;
+	font-size: 36px;
+}
+#reset:hover{
+	color: red;
+}
+#erase:hover{
+	color: red;
+}
+#finishpictureframe:hover{
+color: green;
+box-shadow: rgba(0, 77, 19, 0.16) 0px 1px 4px, rgb(1, 141, 13) 0px 0px 0px 3px;
+}
+.button{
+	font-family: cursive;
+	box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+    font-size: 1.3rem;
+    padding: 8px;
+	position: relative;
+   margin-left: 10%;
+   margin-top: 80%;
+    color: rgb(246, 246, 255);
+    cursor: pointer;
+    border-radius: 30px;
+	font-size: 36px;
+}
+
+
+.eraseMode{
+    background-color: rgb(97, 9, 238);
+    color: #fff;
+}
+
+#textangajare{
+	position: absolute;
+	color: #101011cb;
+	font-weight: 600;
+	font-size: 18px;	
+	margin-top:25%;
+	left:10%;
+	margin-left:0%;	
+}
+#semnatura{
+	position: absolute;
+	font-weight: 600;
+	font-size: 21px;	
+	color: #111116;
+	margin-top: 90%;
+	margin-left: 70%;
+}
+#ceplmeasta{
+	position: absolute;
+	margin-top: 6%;
+	margin-left: 80%;
+}
+#semnatura:hover{	
+	cursor: pointer;
+}
+#semneaza{
+	position: absolute;
+	font-weight: 600;
+	font-size: 21px;	
+	color: #272731;
+	margin-top: 100%;
+	margin-left: 18%;
+	border: none;
+	background: none;
+}
+#time{
+	position: absolute;
+	font-weight: 600;
+	font-size: 18px;	
+	color: #111116;
+	margin-top: 90%;
+	margin-left: 10%;
+}
+
+#title23 {
+	color: #2f3037;
+	font-weight: 600;
+	font-size: 24px;
+}
+
+
+#paintColor{
+	background: none;
+	position: absolute;
+	margin-left: -35%;
+	width: 250px;
+	margin-top: 38%;
+	border: none;
+}
+
+.contract1 {
+	display: none;
+	position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.contract1-card {
+	width: 750px !important;
+	height: 750px !important;
+	border: none;
+	
+	
+	background-color: transparent;
+}
+
+.contract1-card:before, .contract1-card:after{
+  content: '';
+  position: absolute;
+  z-index: -1;
+  width: 100%;
+  height: 100%;
+  box-shadow: 0 0 3px rgba(0, 0, 0, 0.3);
+  background-color: #fff;
+}
+
+.contract1-card:before{
+  transform: rotate(2deg);
+}
+
+.contract1-card::after{
+  transform: rotate(-1deg);
+}
+
+
+
+.square {
+    width: 30%;
+    height: 30%;
+    float: left;
+    background: purple;
+    padding-bottom: 1.66%;
+    margin: 5px;
+}
+
+.container{
+    margin: 0 auto;
+    width: 600px;
+}
+.square-container{
+    text-align: center;
+}
+.message{
+    text-align: center;
+}
+.border{
+    border: solid;
+    border-color: grey;
+    border-width: 0.5px;
+}
+.footer-container{
+    background-color: #EDEDED;
+}
+.foot{
+    font-family: 'Acme', sans-serif;
+}
+
+.hide{
+    display: none;
+}
